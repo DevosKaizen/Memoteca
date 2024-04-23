@@ -1,0 +1,26 @@
+{
+  "pensamentos":
+  [
+    {
+      "id": 1,
+      "conteudo": "que bom que voce veio",
+      "autoria": "desconhecido",
+      "modelo": "modelo1"
+    },
+
+    {
+      "id": 2,
+      "conteudo": "estudar angular esta muito divertido",
+      "autoria": "Andrew Devos",
+      "modelo": "modelo2"
+    },
+
+
+    {
+      "id": 3,
+      "conteudo": "Fluter esta na fila de aprendizado",
+      "autoria": "Devos",
+      "modelo": "modelo3"
+    }
+  ]
+}
