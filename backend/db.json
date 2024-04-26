@@ -1,26 +1,154 @@
 {
-  "pensamentos":
-  [
+  "pensamentos": [
     {
-      "id": 1,
+      "id": "1",
       "conteudo": "que bom que voce veio",
       "autoria": "desconhecido",
       "modelo": "modelo1"
     },
-
     {
-      "id": 2,
+      "id": "2",
       "conteudo": "estudar angular esta muito divertido",
       "autoria": "Andrew Devos",
       "modelo": "modelo2"
     },
-
-
     {
-      "id": 3,
+      "id": "3",
       "conteudo": "Flutter esta na fila de aprendizado",
       "autoria": "Devos",
       "modelo": "modelo3"
+    },
+    {
+      "id": "8601",
+      "conteudo": "teste de backend",
+      "autoria": "Devos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "000a",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "d5c7",
+      "conteudo": "teste de backend",
+      "autoria": "Devos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "87e1",
+      "conteudo": "caceta",
+      "autoria": "byby",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "0c02",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "60dc",
+      "conteudo": "chulipa",
+      "autoria": "jah",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "7c5b",
+      "conteudo": "teste doido",
+      "autoria": "Devos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "491e",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "e295",
+      "conteudo": "Aprendendo AngulardsDSdsadsadASD",
+      "autoria": "Devos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "a512",
+      "conteudo": "gggggggggggggggggggg",
+      "autoria": "gggggggggggggggggggggg",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "aa1d",
+      "conteudo": "gggggggggggggggggggg",
+      "autoria": "gggggggggggggggggggggg",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "0ea6",
+      "conteudo": "gggggggggggggggggggg",
+      "autoria": "gggggggggggggggggggggg",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "d0b7",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "cfd2",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "a760",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "1e78",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "8b6a",
+      "conteudo": "sddsds",
+      "autoria": "dsdsds",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "0f45",
+      "conteudo": "sddsds",
+      "autoria": "dsdsds",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "5440",
+      "conteudo": "sddsds",
+      "autoria": "dsdsds",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "1a7b",
+      "conteudo": "sddsds",
+      "autoria": "dsdsds",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "01be",
+      "conteudo": "sddsds",
+      "autoria": "dsdsds",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "9716",
+      "conteudo": "caceta",
+      "autoria": "girafales",
+      "modelo": "modelo1"
     }
   ]
 }
