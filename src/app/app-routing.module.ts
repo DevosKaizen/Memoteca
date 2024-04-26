@@ -14,6 +14,9 @@ const routes: Routes = [
   { path: 'listarPensamento',
     component: ListarPensamentoComponent
   },
+  { path: 'pensamentos/excluirPensamento/:id',
+    component: ListarPensamentoComponent
+  },
 ];
 
 @NgModule({
